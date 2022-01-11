@@ -1,4 +1,4 @@
 # Range Slider
 
 
-# Live-Demo:https://raydcode.github.io/Range_Slider/
+# Live-Demo:https://naveenmonk.github.io/range-slider/
